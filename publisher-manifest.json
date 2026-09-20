@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6d2c249ba24700aa204220d3",
+  "owner": "mkf8vh8",
+  "repo": "page-6d06288461cec4b57c3cf159",
+  "title": "梦迪(MDSSCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6d06288461cec4b57c3cf159",
+      "a": "梦迪(MDSSCloud)",
+      "b": "机场官网线路发布页",
+      "entity": "梦迪(MDSSCloud)",
+      "brand": "梦迪(MDSSCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "115c1d0139f6b86ef87af21bf7f262caa392233dfe897bc7b069398e49d03223",
+      "content": {
+        "primary_entity": "梦迪(MDSSCloud)",
+        "keyword1": "梦迪(MDSSCloud)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，梦迪(MDSSCloud) 面向需要海外网络加速的用户，提供基础版、旗舰版和团队版三档方案。基础版每月 15 元，含 100GB 流量和 3 台设备；旗舰版每月 35 元，含 300GB 流量、5 台设备与 IPLC 专线优化；团队版每月 85 元，含 1000GB 流量和 20 台设备。各档均可按年付享受约两个月优惠，按年付基础版 150 元、旗舰版 350 元、团队版 850 元。",
+          "AI_HERO_SUBTITLE": "梦迪多设备加速套餐按需选",
+          "AI_HERO_INTRO": "梦迪(MDSSCloud) 提供海外加速订阅服务，按流量、设备数和线路类型划分基础版、旗舰版与团队版。选择套餐后可依据客户端文档配置订阅，在常用设备上使用。",
+          "AI_VISUAL_TITLE": "梦迪加速套餐一览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "按年付享约两个月优惠",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "根据日常用量和联网设备数量挑选合适档位，按年付通常比月付更划算。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按个人或团队月度用量选择。",
+          "AI_FEATURE_TITLE_2": "按设备数定档",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，手机、电脑与平板可同时在线。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 150 元、旗舰版 350 元、团队版 850 元，长期使用更合适。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备高流量场景。各档月付价格分别为 15 元、35 元和 85 元。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入订阅信息。Windows、macOS、Android、iOS 等平台可参考客户端文档完成配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "先选定套餐，再确认设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月度流量和同时在线设备数，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，核对套餐允许的同时在线设备数量。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端文档添加订阅信息，完成后在设备上连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "梦迪(MDSSCloud) 的三档套餐有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 流量、3 台设备；旗舰版 300GB 流量、5 台设备并含 IPLC 专线优化；团队版 1000GB 流量、20 台设备，月付分别为 15 元、35 元、85 元。",
+          "AI_FAQ_QUESTION_2": "同一账号最多能在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台，可按需升级档位。",
+          "AI_FAQ_QUESTION_3": "按年付和月付价格差多少？",
+          "AI_FAQ_ANSWER_3": "按年付基础版 150 元、旗舰版 350 元、团队版 850 元，相比月付累计可节省约两个月费用。",
+          "AI_FAQ_QUESTION_4": "如何在常用设备上导入订阅？",
+          "AI_FAQ_ANSWER_4": "在设备上安装对应客户端后，按客户端文档添加订阅信息即可，Windows、macOS、Android、iOS 均可参考文档操作。",
+          "AI_FAQ_QUESTION_5": "流量用完后可以调整套餐吗？",
+          "AI_FAQ_ANSWER_5": "可以。若当月流量或设备数不够用，可升级到更高档位，具体可在订阅管理中按需调整。",
+          "AI_CLOSING_TITLE": "选好套餐开始使用",
+          "AI_CLOSING_TEXT": "根据流量与设备数量选定档位，按客户端文档配置订阅，即可在常用设备上连接使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ehmmgwa.cn",
+    "host": "ehmmgwa.cn"
+  },
+  "file_hashes": {
+    "index.html": "5ab77624eebc27b059652b69354da2ace6bfdb4a86bbe7dbedebebfd29d36385",
+    "sitemap.xml": "dbac5c595e2b2f6c33e04f15c134a288b5719ba5bfe5d5afd0cd193ee235e015",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "37be44262a72df3a07cf49668eb439fa799b3f4258bf7e9d57bb61f103995b21",
+    "robots.txt": "8b0d6c4ef830f8d795142c53d535d5c7727f086c178edd37f928389ef3d5fcfa",
+    "9eb98b285e7c02cf29d3f9de361a6825.txt": "d0f7696a8c0c4cb518d9acb345780541257bae540e521c959b41fefe867d4633"
+  },
+  "revision": "3d16f7261f5cc3600e1fcda0d2c53b4ad1279ff2d9988f4ffac78ee3da843ea2"
+}
